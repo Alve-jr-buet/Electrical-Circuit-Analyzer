@@ -1,8 +1,11 @@
 # Electrical Circuit Analyzer
 
-A Python-based desktop application for analyzing basic electrical circuits using a graphical user interface (GUI). The project combines circuit analysis principles with software development to provide an interactive tool for students, hobbyists, and engineering learners.
+A Python-based desktop application for analyzing basic electrical circuits using a graphical user interface (GUI).
 
-## Features
+## Live Demo
+
+▶ YouTube Demo:
+[https://youtube.com/your-video-link](https://youtu.be/lcotBCB8pgc)
 
 ### Ohm's Law Calculator
 
@@ -123,25 +126,23 @@ python circuit_analyzer.py
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/1.home.png)
 
 ### Ohm's Law
 
-![Ohms Law](screenshots/ohms_law.png)
+![Ohms Law](screenshots/2.ohms%20law.png)
 
 ### Power Calculator
 
-![Power](screenshots/power_calculator.png)
+![Power](screenshots/3.power%20calculation.png)
 
 ### Voltage Divider
 
-![Voltage Divider](screenshots/voltage_divider.png)
+![Voltage Divider](screenshots/4.voltage%20divider.png)
 
 ### KVL Solver
 
-![KVL Solver](screenshots/kvl_solver.png)
-
----
+![KVL Solver](screenshots/5.kvl%20solver.png)
 
 ## Author
 
