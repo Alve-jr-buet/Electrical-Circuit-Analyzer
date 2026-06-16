@@ -77,7 +77,7 @@ Electrical-Circuit-Analyzer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/electrical-circuit-analyzer.git
+git clone https://github.com/yourusername/electrical-circuit-analyzer.git](https://github.com/Alve-jr-buet/Electrical-Circuit-Analyzer.git
 ```
 
 Navigate to the project directory:
