@@ -119,6 +119,28 @@ python circuit_analyzer.py
 * Additional circuit analysis tools
 * Enhanced circuit visualization
 
+## Screenshots
+
+### Home Screen
+
+![Home](screenshots/home.png)
+
+### Ohm's Law
+
+![Ohms Law](screenshots/ohms_law.png)
+
+### Power Calculator
+
+![Power](screenshots/power_calculator.png)
+
+### Voltage Divider
+
+![Voltage Divider](screenshots/voltage_divider.png)
+
+### KVL Solver
+
+![KVL Solver](screenshots/kvl_solver.png)
+
 ---
 
 ## Author
